@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>_tmethod</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (void)test_&lt;#method name#&gt; {
+    // setup
+    &lt;#setup code#&gt;
+    
+    // perform
+    &lt;#perform code#&gt;
+    
+    // verify
+    &lt;#verify code#&gt;
+}           </string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1A7AF6C1-5ABB-48F2-B5F0-44A7411E9531</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Test method body declaration</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Test Method</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
